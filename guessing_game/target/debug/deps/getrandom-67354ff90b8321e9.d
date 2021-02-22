@@ -1,0 +1,11 @@
+/home/dapao/Documents/github/zero_to_infinity/guessing_game/target/debug/deps/getrandom-67354ff90b8321e9.rmeta: /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/lib.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error_impls.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util_libc.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/use_file.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/linux_android.rs
+
+/home/dapao/Documents/github/zero_to_infinity/guessing_game/target/debug/deps/getrandom-67354ff90b8321e9.d: /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/lib.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error_impls.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util_libc.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/use_file.rs /home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/linux_android.rs
+
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/lib.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/error_impls.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/util_libc.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/use_file.rs:
+/home/dapao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.2/src/linux_android.rs:
