@@ -1,5 +1,5 @@
 [package]
-name = "basic_concepts"
+name = "enum_match_patterns"
 version = "0.1.0"
 authors = ["leiwenpeng <leiwenpeng1994@outlook.com>"]
 edition = "2018"
