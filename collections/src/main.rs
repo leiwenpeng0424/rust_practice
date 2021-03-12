@@ -99,4 +99,31 @@ fn main() {
 
     // 字符串 slice
     // 索引字符串通常不是一个好点子，因为字符串索引应该返回的类型是不明确的：字节值、字符、字型族或者字符串 slice。
+
+    // HashMap
+    use std::collections::HashMap;
+
+    let mut hash: HashMap<u8, String> = HashMap::new();
+    let my_name = String::from("Lei Wen Peng");
+
+    hash.insert(9, my_name);
+
+    // 类似于Vector，所有的成员都是同质的，所有的key必须是同一个类型，所有的value必须也是同一个类型
+    // hash.insert("name".to_string(), "12");
+    println!("{:?}", hash);
+
+    let teams = vec![String::from("blue"), String::from("red")];
+    let scores = vec![10, 20];
+
+    let mut scores: HashMap<_, _> = teams.iter().zip(scores.iter()).collect();
+
+    /*
+        对于实现了Copy traits的数据类型，例如i32，值可以直接拷贝进HashMap。
+        而对于String这类拥有ownership的数据类型来说，将值移动到HashMap之后，
+        HashMap会接管这类数据的所有权。
+    */
+    let s = String::from("mime");
+    scores.insert(&s, &12);
+    println!("{:?}", scores);
+    println!("{:?}", s);
 }
